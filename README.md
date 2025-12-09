@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Java (Maven/Gradle)
+- **Detected Technologies:** AWS, Java
 - **GitHub Topics:** None
 
 ---
